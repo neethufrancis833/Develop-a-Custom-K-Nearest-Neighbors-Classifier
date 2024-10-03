@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f1d51b-feb4-47c6-9399-388190d9f037" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kneighbours_classifier_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN/knn_classifier.py" afterDir="false" />
-    </list>
+    <list default="true" id="97f1d51b-feb4-47c6-9399-388190d9f037" name="Changes" comment=" custom knn classifier  created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/neethufrancis833/Develope-a-Custom-K-Nearest-Neighbors-Classifier.git",
+    "accountId": "71c92cd4-ba5e-4853-ad6b-7ad243286325"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/KNN/knn_classifier.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -95,6 +92,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727786371356</updated>
     </task>
+    <task id="LOCAL-00001" summary=" customknn classifier  created">
+      <option name="closed" value="true" />
+      <created>1727948688742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727948688742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" customknn classifier  created" />
+    <MESSAGE value=" custom knn classifier  created" />
+    <option name="LAST_COMMIT_MESSAGE" value=" custom knn classifier  created" />
   </component>
 </project>
