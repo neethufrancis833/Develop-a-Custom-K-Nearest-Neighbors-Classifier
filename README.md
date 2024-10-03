@@ -1,1 +1,1 @@
-# Develope-a-Custom-K-Nearest-Neighbors-Classifier
+# Develop-a-Custom-K-Nearest-Neighbors-Classifier
